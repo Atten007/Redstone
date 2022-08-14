@@ -12,6 +12,6 @@ I'm using the 1.12.2 version for this tutorial.
 6. You can play now on your server!<br>
 
 If you want to play with the 1.19.2 version, you've to type in:
-<p>Java -jar redstonemc-server-1.12.2.jar -Xmx1G -Xms1G</p><br>
+<p>Java -jar redstonemc-server-1.19.2.jar -Xmx1G -Xms1G</p><br>
 
 Have fun playing!
