@@ -1,17 +1,17 @@
-<h1> Redstone </h1>
-RedstoneMC is a Minecraft: Java Edition Server forked from Bukkit in Java 8 (1.12.2) and Java 17 (1.19.2). It supports legacy Bukkit / Spigot Plugins and Forge Mods in the RedstoneForge version. It's compatible with 1.12.2 for legacy Plugins and with 1.19.2 for current Plugins. If you find bugs or if you want to contribute, feel free to do it with opening a issue or a pull request.
+<h1>What's Redstone</h1>
+RedstoneMC is a fork of the popular Fabric modding api/toolchain and the Cardboard mod, which adds support for bukkit plugins. The Software currently supports Fabric 1.18.2 and 1.19.3 and Paper 1.18.2 and 1.19.3. The legacy version for 1.14.4 until 1.17.1 can be found in my RedstoneLegacy repository here.
 
-<h2> How to install? (not finished yet)</h2>
-I'm using the 1.12.2 version for this tutorial.
-1. Download RedstoneMC 1.12.2 from the releases page.<br>
-2. Go to your terminal and type in the following:<br>
-<p>Java -jar redstonemc-server-1.12.2.jar -Xmx1G -Xms1G</p><br>
-3. Please wait until the server says a message like "Successfully started the server in (...ms)".<br>
-4. Go to your WLAN router and open port 25565.<br>
-5. Now try to connect with Minecraft version 1.12.2 and the ip address "localhost:25565" (without ").<br>
-6. You can play now on your server!<br>
+<h2>How to use?</h2>
+SOON
+<h2>How to download</h2>
+SOON
 
-If you want to play with the 1.19.2 version, you've to type in:
-<p>Java -jar redstonemc-server-1.19.2.jar -Xmx1G -Xms1G</p><br>
+<h3>VERY IMPORTANT NOTES</h3>
 
-Have fun playing!
+1. The legacy version can only build with Java 8 (1.14.4 until 1.16.5) or 16 (1.17.1)! If you want to make plugins, new features or bugfixes for these old versions, use Java 8 / 16.
+2. [b]ALL[/b] mods in the mod folder need the Fabric API to work correctly! Otherwise, the server will crash!
+3. You need to [b]AGREE[/b] the EULA (End User Licence Agreement) to run the server!
+4. The 1.19.3 server is in a very early alpha. It's [b]NOT[/b] intended for production use, but if you want to use it, please be aware that there can be bugs inside. If you find bugs, feel free to report them here in the Issues tab.
+5. If you've feature requests, feel free to post them as a Pull request
+
+The code will be here soon!
